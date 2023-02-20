@@ -5,7 +5,7 @@
 - **This landing page was build by [Vaibhav Shinde](https://www.linkedin.com/in/vaibhavwxyz/) as an interview problem statement for iNeuron.**
 - **This landing page was build using HTML, Tailwind CSS and JavaScript, with inspiration from the [Discord](https://discord.com/) site.**
 - **This landing page is also responsive for small screen devices like Smartphone and iPad or Tablet. 🚀**
-- **To see the project in action, visit [https://discord-clone-by-vaibhav-shinde.netlify.app/](https://discord-clone-by-vaibhav-shinde.netlify.app/)**
+- **To see the project in action, visit [https://discord-clone-by-vaibhav-shinde.netlify.app](https://discord-clone-by-vaibhav-shinde.netlify.app)**
 
 ![image](https://user-images.githubusercontent.com/73052214/219934816-2a080838-633b-4d43-a2ab-3fad34798074.png)
 ![image](https://user-images.githubusercontent.com/73052214/219934872-e4ba4762-f16b-4096-9c13-3960834c9b53.png)
